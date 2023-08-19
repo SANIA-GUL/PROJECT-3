@@ -3,7 +3,7 @@ SONET
 
 Step 1
 
-For concatenating the audio files generated from a single speaker. Run it on the Data sets TIMIT and McGill by unzipping these folders and before running it creat an empty folder with name 'Concatenated'.
+For concatenating the audio files generated from a single speaker. Run it on the Data sets TIMIT and McGill by unzipping these folders and before running it creat an empty folder with name 'Concatenated'. Download these datasets from the websites mentioned in the references of the paper below
 
 Step 2
 
